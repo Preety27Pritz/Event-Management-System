@@ -1,4 +1,13 @@
-The Hotel Management System is a web-based application designed to facilitate the ordering and delivery of food from various restaurants. Implemented features such as user validation, menu browsing, and order processing. Integrated with a backend database for efficient data management. Employed endpoints for seamless communication between the frontend and backend. Achieved a responsive and intuitive UI for enhanced user experience. Admin can approve and block Hotels. Admin is responsible to maintain everything.   Hotels can upload products, update product, delete products. User can book a order, can view his previous food orders. Admin will be managing everything.
+An Event Management System is a web-based application designed to simplify the organization and management of various events like conferences, weddings, corporate meetings, and more. It provides features for event creation, scheduling, and attendee management. Users can register for events, receive notifications, and track event details. The system allows event organizers to manage event logistics, including venue, time, and resources. It also integrates with payment gateways for seamless ticketing and invoicing.
+
+Key Features:
+
+Event creation and customization.
+Attendee registration and management.
+Ticketing and payment integration.
+Event scheduling and notifications.
+Reports and analytics for event performance.
+The system enhances collaboration between event organizers, vendors, and attendees, offering a streamlined and efficient way to manage events from start to finish.
 
 Roles and responsibilities:- 
 
