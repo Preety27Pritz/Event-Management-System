@@ -2,12 +2,12 @@ An Event Management System is a web-based application designed to simplify the o
 
 Key Features:
 
-Event creation and customization.
-Attendee registration and management.
-Ticketing and payment integration.
-Event scheduling and notifications.
-Reports and analytics for event performance.
-The system enhances collaboration between event organizers, vendors, and attendees, offering a streamlined and efficient way to manage events from start to finish.
+*Event creation and customization.
+*Attendee registration and management.
+*Ticketing and payment integration.
+*Event scheduling and notifications.
+*Reports and analytics for event performance.
+*The system enhances collaboration between event organizers, vendors, and attendees, offering a streamlined and efficient way to manage events from start to finish.
 
 Roles and responsibilities:- 
 
